@@ -1,0 +1,11 @@
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\bin\Debug\Lab1 VB.exe.config
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\bin\Debug\Lab1 VB.exe
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\bin\Debug\Lab1 VB.pdb
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\bin\Debug\Lab1 VB.xml
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\obj\Debug\myproject1 VB.vbprojResolveAssemblyReference.cache
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\obj\Debug\Lab1_VB.Form1.resources
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\obj\Debug\Lab1_VB.Resources.resources
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\obj\Debug\myproject1 VB.vbproj.GenerateResource.Cache
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\obj\Debug\Lab1 VB.exe
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\obj\Debug\Lab1 VB.xml
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\Lab1 VB\obj\Debug\Lab1 VB.pdb

@@ -1,0 +1,10 @@
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\myproject2 VB\bin\Debug\myproject2 VB.exe.config
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\myproject2 VB\bin\Debug\myproject2 VB.exe
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\myproject2 VB\bin\Debug\myproject2 VB.pdb
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\myproject2 VB\bin\Debug\myproject2 VB.xml
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\myproject2 VB\obj\Debug\myproject2_VB.Form2.resources
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\myproject2 VB\obj\Debug\myproject2_VB.Resources.resources
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\myproject2 VB\obj\Debug\myproject2 VB.vbproj.GenerateResource.Cache
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\myproject2 VB\obj\Debug\myproject2 VB.exe
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\myproject2 VB\obj\Debug\myproject2 VB.xml
+c:\users\__tanx\documents\visual studio 2017\Projects\Lab1 VB\myproject2 VB\obj\Debug\myproject2 VB.pdb
